@@ -12,7 +12,7 @@
           "question": "What is the plural of 'tooth'?",
           "options": ["tooths", "teeth", "toothes", "teet"],
           "answer": "teeth"
-        },
+        }
        
       ]
     },
@@ -23,7 +23,7 @@
           "question": "What is the synonym of 'smart'?",
           "options": ["dumb", "brilliant", "lazy", "ugly"],
           "answer": "brilliant"
-        },
+        }
         
       ]
     }
